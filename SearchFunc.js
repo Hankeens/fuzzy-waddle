@@ -1,3 +1,4 @@
+
 /*
 Tipue Search 7.1
 Copyright (c) 2019 Tipue
@@ -539,9 +540,9 @@ http://www.tipue.com/search
           });
      };
 })(jQuery);
-</script>
 
-<script>
+
+
 var tipuesearch = {"pages": [
   {"title":"Cubeware Home","text":"Accelerate business value through data.","url":"https://www.cubeware.co/home"},
   {"title":"Why Cubeware", "text": "Cubeware in a nutshell.", "url": "https://www.cubeware.co/why-cubeware"},
@@ -590,9 +591,9 @@ var tipuesearch = {"pages": [
   {"title":"Data Analysis & Data Visualisation","text":"Understand your business better. Establish relationships between business processes. Recognise interrelations in your area of responsibility. Identify patterns in your processes. Using your data, gain insights that were previously hidden. The Cubeware Solutions Platform supports you in analysing and visualising your data so that you can draw the right conclusions and make better decisions even faster.","url":"https://www.cubeware.co/data-analysis-data-visualisation"},
   {"title":"Advanced Analytic With The Cubeware Solutions Platform","text":"The future is here! Give your decision aids and recommendations for action significantly more relevance by automatically enriching them with prediction data based on intelligent algorithms. Cubeware Advance adds advanced analytics functionality to the Cubeware Solutions Platform and assists you in bringing predictive decision support directly to where it is most effective - straight to all decision makers.","url":"https://www.cubeware.co/cubeware-advance"}
 ]};
-</script>
 
-<script>
+
+
 /*
 Tipue Search 7.1
 Copyright (c) 2019 Tipue
