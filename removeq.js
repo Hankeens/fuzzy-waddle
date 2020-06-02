@@ -1,5 +1,4 @@
-<script>
-  window.onload = function(){
+window.onload = function(){
     var lnk = window.location.search.substring(1);
   	var lnkstr = lnk.split('&');
   	for(var i = 0; i <= lnkstr.length; i++){
@@ -18,4 +17,3 @@
             }
     }
   }
-</script>
