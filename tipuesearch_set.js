@@ -31,7 +31,7 @@ var tipuesearch_stem = {'words': [
 // Related
 var tipuesearch_related = {'Related': [
      {'search': 'cubeware', 'related': 'Search', 'include': 1},
-     {'search': 'cubeware', 'related': 'portal'},
+     {'search': 'cubeware', 'related': 'Portal'},
      {'search': 'cubeware', 'related': 'Blog'},
      {'search': 'cubeware', 'related': 'Support'},
   	{'search': 'contact', 'related': 'Contact Us'},
