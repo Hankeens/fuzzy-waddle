@@ -1,4 +1,3 @@
-<script>
 /*
 Tipue Search 7.1
 Copyright (c) 2019 Tipue
@@ -654,4 +653,3 @@ var tipuesearch_string_16 = 'Goto Page';
 // Internals
 // Timer for showTime
 var startTimer = new Date().getTime();
-</script>
